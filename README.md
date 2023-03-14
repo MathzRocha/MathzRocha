@@ -6,7 +6,7 @@
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Nerd, jogador de CTF no tempo livre, ciclista, apaixonado por academia e treinos. Também adoro toda a cultura *geek*, entusiasta de *Mobile Security*. Apaixonado por música, principalmente metal e trash metal
 ---
-## Ferramentas e Tecnologias
+## 🎓Ferramentas e Tecnologias
 
 <div>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white">
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
+
 </div>
 
 ----
@@ -40,7 +41,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathzRocha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Contatos:
+## 📧 Contatos:
 
 <div>
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -49,6 +50,10 @@
 <a href="https://www.buymeacoffee.com/mathzrocha77" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
 </div>
 
+---
   
-  <img src="https://pbs.twimg.com/profile_images/1599091564021694464/LLNGcAUh_400x400.jpg">
+## 👾 CTF Player
+  <div style="Center">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MatheusRocha.png" alt="TryHackMe">
+  </div>
 
