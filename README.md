@@ -54,5 +54,5 @@
   
 ## 👾 CTF Player
   <div style="Center">
-    <script src="https://tryhackme.com/badge/866693"></script>
+     <img src="https://tryhackme-badges.s3.amazonaws.com/MatheusRocha.png" alt="TryHackMe">
   </div>
