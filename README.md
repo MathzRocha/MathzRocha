@@ -1,7 +1,7 @@
 # Talk is cheap. Show me the code. 😅
 
 # Wh0am1 !? 🎰🎰
-### My name is Matheus and my nickname is "Gh0sKn1gth" !
+### My name is Matheus and my nickname is "s1Ck" !
 
 
 <p>Seja bem vindo ao perfil! Não sou nenhum desenvolvedor muito experiente, porém gosto muito de programar e aprender novas coisas rs... Aqui nos meus repositórios estão alguns códigos que criei e claro, também alguns códigos interessantes que salvo</p>
